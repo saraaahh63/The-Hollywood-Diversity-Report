@@ -1,6 +1,6 @@
 # The Hollywood Diversity Report: Directors
 
-This is my final project for [Critical Data & Visualization](https://github.com/leoneckert/cdv-fall19) at NYU Shanghai.  
+This is my final project for [Critical Data & Visualization](https://github.com/leoneckert/cdv-fall19) at NYU Shanghai.
 
 
 ## The Story
