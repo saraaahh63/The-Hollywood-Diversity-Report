@@ -1,0 +1,434 @@
+[
+    {
+        "movie": "Open Grave",
+        "director": "Gonzalez Lopez-Gallego",
+        "cast": "Sharlto Copley, Joseph Morgan, Josie Ho, Thomas Kretschmann",
+        "genre": "Thriller",
+        "company": "Tribeca Films",
+        "year": "2014"
+    },
+    {
+        "movie": "10",
+        "director": "Cold Comes the Night",
+        "cast": "Tze Shun",
+        "genre": "Alice EveBryan CranstonLogan Marshall-GreenUrsula Parker",
+        "company": "Thriller",
+        "year": "2014"
+    },
+    {
+        "movie": "Dumbbells",
+        "director": "Christopher Livingston",
+        "cast": "Brian Drolet, Hoyt Richards, Jaleel White",
+        "genre": "Comedy",
+        "company": "GoDigital",
+        "year": "2014"
+    },
+    {
+        "movie": "The Legend of Hercules",
+        "director": "Renny Harlin",
+        "cast": "Kellan Lutz, Gaia Weiss, Scott Adkins",
+        "genre": "Fantasy",
+        "company": "Summit Entertainment",
+        "year": "2014"
+    },
+    {
+        "movie": "Raze",
+        "director": "Josh C. Waller",
+        "cast": "Zoe Bell, Rachel Nichols, Tracie Thoms",
+        "genre": "Thriller",
+        "company": "IFC Midnight",
+        "year": "2014"
+    },
+    {
+        "movie": "17",
+        "director": "Back in the Day",
+        "cast": "Michael Rosenbaum",
+        "genre": "Michael RosenbaumMorena BaccarinKristoffer PolahaIsaiah Mustafa",
+        "company": "Comedy",
+        "year": "2014"
+    },
+    {
+        "movie": "Devil's Due",
+        "director": "Matt Bettinelli-OlpinTyler Gillett",
+        "cast": "Zach Gilford, Allison Miller, Sam Anderson, Aimee Carrero",
+        "genre": "Horror",
+        "company": "20th Century Fox",
+        "year": "2014"
+    },
+    {
+        "movie": "Jack Ryan: Shadow Recruit",
+        "director": "Kenneth Branagh",
+        "cast": "Chris Pine, Keira Knightley, Kevin Costner, Kenneth Branagh",
+        "genre": "Thriller",
+        "company": "Paramount Pictures",
+        "year": "2014"
+    },
+    {
+        "movie": "Jamesy Boy",
+        "director": "Trevor White",
+        "cast": "Spencer Lofranco, Mary-Louise Parker, Taissa Farmiga, James Woods",
+        "genre": "Drama",
+        "company": "Phase 4 Films",
+        "year": "2014"
+    },
+    {
+        "movie": "The Nut Job",
+        "director": "Peter Lepeniotis",
+        "cast": "Will Arnett, Brendan Fraser, Gabriel Iglesias, Liam Neeson",
+        "genre": "Comedy",
+        "company": "Open Road FilmsBased on the short-film Surly Squirrel (2005)",
+        "year": "2014"
+    },
+    {
+        "movie": "Ride Along",
+        "director": "Tim Story",
+        "cast": "Ice Cube, Kevin Hart, John Leguizamo, Bruce McGill",
+        "genre": "Comedy",
+        "company": "Universal Pictures",
+        "year": "2014"
+    },
+    {
+        "movie": "21",
+        "director": "Black Water Vampire",
+        "cast": "Evan Tramel",
+        "genre": "Danielle LozeauAndrea MonierAnthony FanelliRobin Steffen",
+        "company": "Horror",
+        "year": "2014"
+    },
+    {
+        "movie": "24",
+        "director": "I, Frankenstein",
+        "cast": "Stuart Beattie",
+        "genre": "Aaron EckhartBill NighyYvonne StrahovskiMiranda Otto",
+        "company": "Action",
+        "year": "2014"
+    },
+    {
+        "movie": "Mega Shark Versus Mecha Shark",
+        "director": "Emile Edwin Smith",
+        "cast": "Christopher Judge, Elisabeth Rohm, Debbie Gibson",
+        "genre": "Disaster",
+        "company": "The AsylumSequel to Mega Shark Versus Crocosaurus (2010)",
+        "year": "2014"
+    },
+    {
+        "movie": "31",
+        "director": "Labor Day",
+        "cast": "Jason Reitman",
+        "genre": "Kate WinsletJosh BrolinGattlin GriffithTobey Maguire",
+        "company": "Drama",
+        "year": "2014"
+    },
+    {
+        "movie": "That Awkward Moment",
+        "director": "Tom Gormican",
+        "cast": "Zac Efron, Miles Teller, Michael B. Jordan, Imogen Poots",
+        "genre": "Romantic comedy",
+        "company": "Sony Pictures",
+        "year": "2014"
+    },
+    {
+        "movie": "Somewhere Slow",
+        "director": "Jeremy O'Keefe",
+        "cast": "Jessalyn Gilsig, David Costabile, Graham Patrick Martin, Wallace Langham",
+        "genre": "Drama",
+        "company": "Screen Media Films",
+        "year": "2014"
+    },
+    {
+        "movie": "FEBRUARY",
+        "director": "4",
+        "cast": "Android Cop",
+        "genre": "Mark Atkins",
+        "company": "Michael Jai WhiteKadeem HardisonRandy WayneCharles S. Dutton",
+        "year": "2014"
+    },
+    {
+        "movie": "The Monuments Men",
+        "director": "George Clooney",
+        "cast": "George Clooney, Matt Damon, Bill Murray, John Goodman",
+        "genre": "War",
+        "company": "Columbia PicturesBased on the novel of the same name by Robert M. Edsel",
+        "year": "2014"
+    },
+    {
+        "movie": "The Outsider",
+        "director": "Brian A. Miller",
+        "cast": "Craig Fairbrass, James Caan, Shannon Elizabeth",
+        "genre": "Crime drama",
+        "company": "Oak Street Films",
+        "year": "2014"
+    },
+    {
+        "movie": "Scorned",
+        "director": "Mark Jones",
+        "cast": "AnnaLynne McCord, Billy Zane, Viva Bianca",
+        "genre": "Thriller",
+        "company": "Anchor Bay Films",
+        "year": "2014"
+    },
+    {
+        "movie": "7",
+        "director": "After the Dark",
+        "cast": "John Huddles",
+        "genre": "Sophie LoweRhys WakefieldJames D'Arcy",
+        "company": "Thriller",
+        "year": "2014"
+    },
+    {
+        "movie": "Nurse 3D",
+        "director": "Doug Aarniokoski",
+        "cast": "Paz de la Huerta, Katrina Bowden, Corbin Bleu",
+        "genre": "Horror",
+        "company": "Lions Gate Entertainment",
+        "year": "2014"
+    },
+    {
+        "movie": "The Pretty One",
+        "director": "Jen\u00e9e LaMarque",
+        "cast": "Zoe Kazan, Jake Johnson, Ron Livingston, Sterling Beaumon",
+        "genre": "Comedy",
+        "company": "Dada Films",
+        "year": "2014"
+    },
+    {
+        "movie": "Vampire Academy",
+        "director": "Mark Waters",
+        "cast": "Zoey Deutch, Lucy Fry, Danila Kozlovsky",
+        "genre": "Fantasy",
+        "company": "The Weinstein CompanyBased on the novel Vampire Academy",
+        "year": "2014"
+    },
+    {
+        "movie": "14",
+        "director": "About Last Night",
+        "cast": "Steve Pink",
+        "genre": "Kevin HartMichael EalyRegina HallJoy Bryant",
+        "company": "Romantic comedy",
+        "year": "2014"
+    },
+    {
+        "movie": "Adult World",
+        "director": "Scott Coffey",
+        "cast": "Emma Roberts, John Cusack, Evan Peters",
+        "genre": "Comedy",
+        "company": "IFC Films",
+        "year": "2014"
+    },
+    {
+        "movie": "Camp Takota",
+        "director": "Chris Riedell",
+        "cast": "Grace Helbig, Hannah Hart, Mamrie Hart",
+        "genre": "Comedy",
+        "company": "VHX",
+        "year": "2014"
+    },
+    {
+        "movie": "Date and Switch",
+        "director": "Chris Nelson",
+        "cast": "Nicholas Braun, Gary Cole, Dakota Johnson, Hunter Cope",
+        "genre": "Comedy",
+        "company": "Lions Gate Entertainment",
+        "year": "2014"
+    },
+    {
+        "movie": "Endless Love",
+        "director": "Shana Feste",
+        "cast": "Alex Pettyfer, Gabriella Wilde, Bruce Greenwood, Robert Patrick",
+        "genre": "Romance",
+        "company": "Universal PicturesBased on the novel of the same name by Scott SpencerRemake of the 1981 film of the same name",
+        "year": "2014"
+    },
+    {
+        "movie": "RoboCop",
+        "director": "Jos\u00e9 Padilha",
+        "cast": "Joel Kinnaman, Gary Oldman, Michael Keaton, Samuel L. Jackson",
+        "genre": "Action",
+        "company": "Columbia PicturesRemake of the 1987 film of the same name",
+        "year": "2014"
+    },
+    {
+        "movie": "Someone Marry Barry",
+        "director": "Rob Pearlstein",
+        "cast": "Tyler Labine, Damon Wayans, Jr., Lucy Punch, Hayes MacArthur",
+        "genre": "Comedy",
+        "company": "FilmBuff",
+        "year": "2014"
+    },
+    {
+        "movie": "18",
+        "director": "Apocalypse Pompeii",
+        "cast": "Ben Demaree",
+        "genre": "Adrian PaulJohn Rhys-DaviesDylan Vox",
+        "company": "Action",
+        "year": "2014"
+    },
+    {
+        "movie": "21",
+        "director": "3 Days to Kill",
+        "cast": "McG",
+        "genre": "Kevin CostnerAmber HeardHailee SteinfeldConnie Nielsen",
+        "company": "Thriller",
+        "year": "2014"
+    },
+    {
+        "movie": "Angels in Stardust",
+        "director": "William Robert Carey",
+        "cast": "Alicia Silverstone, Billy Burke, AJ Michalka",
+        "genre": "Comedy",
+        "company": "High-Motor ProductionsBased on the novel Jesus in Cowboy Boots by William Robert Carey",
+        "year": "2014"
+    },
+    {
+        "movie": "Barefoot",
+        "director": "Andrew Fleming",
+        "cast": "Evan Rachel Wood, Scott Speedman, Treat Williams, J. K. Simmons",
+        "genre": "Romantic-comedy",
+        "company": "Roadside AttractionsRemake of the German film Barfuss (2005)",
+        "year": "2014"
+    },
+    {
+        "movie": "Holy Ghost People",
+        "director": "Mitchell Altieri",
+        "cast": "Emma Greenwell, Joe Egender, Cameron Richardson",
+        "genre": "Thriller",
+        "company": "XLrator Media",
+        "year": "2014"
+    },
+    {
+        "movie": "28",
+        "director": "The Bag Man",
+        "cast": "David Grovic",
+        "genre": "John CusackRebecca Da CostaRobert De NiroCrispin Glover",
+        "company": "Action",
+        "year": "2014"
+    },
+    {
+        "movie": "Non-Stop",
+        "director": "Jaume Collet-Serra",
+        "cast": "Liam Neeson, Julianne Moore, Scoot McNairy, Michelle Dockery",
+        "genre": "Action",
+        "company": "Universal Pictures",
+        "year": "2014"
+    },
+    {
+        "movie": "Repentance",
+        "director": "Philippe Caland",
+        "cast": "Forest Whitaker, Anthony Mackie, Nicole Ari Parker",
+        "genre": "Thriller",
+        "company": "Lions Gate Entertainment",
+        "year": "2014"
+    },
+    {
+        "movie": "Son of God",
+        "director": "Christopher Spencer",
+        "cast": "Diogo Morgado, Roma Downey, Darwin Shaw",
+        "genre": "Christian",
+        "company": "20th Century FoxBased on the New Testament",
+        "year": "2014"
+    },
+    {
+        "movie": "MARCH",
+        "director": "7",
+        "cast": "300: Rise of an Empire",
+        "genre": "Noam Murro",
+        "company": "Sullivan StapletonEva GreenLena HeadeyRodrigo Santoro",
+        "year": "2014"
+    },
+    {
+        "movie": "Mr. Peabody & Sherman",
+        "director": "Rob Minkoff",
+        "cast": "Ty Burrell, Max Charles, Ariel Winter, Leslie Mann",
+        "genre": "Adventure",
+        "company": "20th Century FoxBased on the characters of the same name by Ted Key",
+        "year": "2014"
+    },
+    {
+        "movie": "14",
+        "director": "Better Living Through Chemistry",
+        "cast": "David Posamentier",
+        "genre": "Sam RockwellOlivia WildeMichelle MonaghanRay Liotta",
+        "company": "Comedy-drama",
+        "year": "2014"
+    },
+    {
+        "movie": "Need for Speed",
+        "director": "Scott Waugh",
+        "cast": "Aaron Paul, Dominic Cooper, Imogen Poots, Kid Cudi",
+        "genre": "Action",
+        "company": "Touchstone PicturesBased on the video games of the same name by Electronic Arts",
+        "year": "2014"
+    },
+    {
+        "movie": "The Single Moms Club",
+        "director": "Tyler Perry",
+        "cast": "Nia Long, Amy Smart, Cocoa Brown, Wendi McLendon-Covey",
+        "genre": "Drama",
+        "company": "Lions Gate Entertainment",
+        "year": "2014"
+    },
+    {
+        "movie": "Veronica Mars",
+        "director": "Rob Thomas",
+        "cast": "Kristen Bell, Jason Dohring, Krysten Ritter, Ryan Hansen",
+        "genre": "Comedy drama",
+        "company": "Warner Bros.Based on the television series of the same name",
+        "year": "2014"
+    },
+    {
+        "movie": "21",
+        "director": "Cheap Thrills (film)",
+        "cast": "E. L. Katz",
+        "genre": "Pat HealyEthan EmbryDavid KoechnerSara Paxton",
+        "company": "Comedy",
+        "year": "2014"
+    },
+    {
+        "movie": "Divergent",
+        "director": "Neil Burger",
+        "cast": "Shailene Woodley, Theo James, Ashley Judd, Jai Courtney, Zoe Kravitz",
+        "genre": "Science fiction",
+        "company": "Lions Gate EntertainmentBased on the novel of the same name by Veronica Roth",
+        "year": "2014"
+    },
+    {
+        "movie": "God's Not Dead",
+        "director": "Harold Cronk",
+        "cast": "Kevin Sorbo, Shane Harper, David A. R. White, Dean Cain",
+        "genre": "Christian",
+        "company": "Pure Flix EntertainmentBased on the novel God's Not Dead: Evidence For God In An Age Of Uncertainty by Rice Broocks",
+        "year": "2014"
+    },
+    {
+        "movie": "Muppets Most Wanted",
+        "director": "James Bobin",
+        "cast": "Ricky Gervais, Ty Burrell, Steve Whitmire, Tina Fey",
+        "genre": "Comedy",
+        "company": "Walt Disney PicturesSequel to The Muppets (2011)",
+        "year": "2014"
+    },
+    {
+        "movie": "50 to 1",
+        "director": "Jim Wilson",
+        "cast": "Christian Kane, William Devane, Skeet Ulrich",
+        "genre": "Drama",
+        "company": "Ten Furlongs",
+        "year": "2014"
+    },
+    {
+        "movie": "27",
+        "director": "Noah",
+        "cast": "Darren Aronofsky",
+        "genre": "Russell CroweEmma WatsonLogan LermanAnthony Hopkins",
+        "company": "Biblical",
+        "year": "2014"
+    },
+    {
+        "movie": "Sabotage",
+        "director": "David Ayer",
+        "cast": "Arnold Schwarzenegger, Terrence Howard, Sam Worthington, Olivia Williams",
+        "genre": "Action",
+        "company": "Open Road Films",
+        "year": "2014"
+    }
+]

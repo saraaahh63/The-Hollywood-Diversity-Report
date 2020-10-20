@@ -1,0 +1,1 @@
+$(window).on("load",function(){setTimeout(function(){$(".pagefade").fadeIn(600)},600),$("a[href]").click(function(){var n=this.href;return $("body").fadeOut(600),setTimeout(function(){location.href=n},600),!1})});

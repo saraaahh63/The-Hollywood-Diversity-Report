@@ -1,0 +1,189 @@
+@font-face {
+    font-family: Barlow;
+    src:url('assets/barlow.otf');
+   }
+  
+  body{
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow-x: hidden;
+      background-color: black;
+      font-family: Barlow, "sans-serif", generic;
+    }
+  
+    h3{
+        font-size: large;
+        font-family: Barlow, "sans-serif", generic;
+    }
+    
+    
+    #wrapper{
+      display: block;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100vw;
+      background-color: black;
+    }
+    #sketchholder {
+      position: relative;
+      top: 0;
+      left: 0;
+      height: 100px;
+      width: 1250px;
+      /* background-color: black; */
+    }
+    
+    #textboxes {
+      width: 12%;
+      height: 800px;
+      position: fixed;
+      right: 0;
+      top: 0;
+      background-color: black;
+    }
+    
+    .box{
+      margin-top: 10px;
+      margin-bottom: 0px;
+      padding: 5px;
+      background-color: black;
+      width: 200px;
+      -webkit-animation-duration: 0.2s;
+    animation-duration: 0.2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    }
+
+    
+  
+  
+  #main {
+    color:white;
+  }
+  
+  #main:hover {
+    background-color:black;
+    color: white;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+  }
+
+  #source {
+    color:white;
+  }
+  
+  #source:hover {
+    background-color:black;
+    color: white;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+  }
+  
+  #time {
+    color:white;
+  }
+  
+  #time:hover {
+    background-color:lightgrey;
+    color: black;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+  }
+
+  #high {
+    color:white;
+  }
+  
+  #high:hover {
+    background-color:lightgrey;
+    color: black;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+  }
+
+  #p1 {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    width: 1100px;
+    position: relative;
+    top: 15%;
+    left: 3.5%;
+    color: white;
+  }
+
+  #p3 {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    width: 1100px;
+    position: relative;
+    top: 755%;
+    left: 3.5%;
+    color: white;
+  }
+
+  #p2 {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    width: 800px;
+    position: relative;
+    top: 100%;
+    left: 10%;
+    color: lightgrey;
+  }
+
+  #highlights {
+    position: relative;
+    top: 915%;
+    left: 3.5%;
+    color: white;
+    width: 1100px;
+  }
+
+  #sources {
+    position: relative;
+    top: 1000%;
+    left: 3.5%;
+    color: white;
+    width: 1100px;
+  }
+
+  ul {
+    font-size: large;
+    font-family: Barlow, "sans-serif", generic;
+    line-height: 3em
+  }
+
+  a{
+    color: white;
+  }
+
+
+  p {
+    font-size: large;
+    font-family: Barlow, "sans-serif", generic;;
+  }
+  
+  @keyframes expand {
+      0% {
+          -webkit-transform: translateX(0);
+          -ms-transform:     translateX(0);
+          transform:         translateX(0)
+      }
+      100% {
+          -webkit-transform: translateX(-18px);
+          -ms-transform:     translateX(-18px);
+          transform:         translateX(-18px)
+      }
+  }
+    

@@ -1,0 +1,205 @@
+@font-face {
+  font-family: Barlow;
+  src:url(font/barlow.ttf);
+ }
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: black;
+    overflow-x: hidden;
+  }
+
+  h3{
+      font-size: large;
+      font-family: Barlow, "sans-serif", generic;
+  }
+  
+  
+  #wrapper{
+    display: flex;
+  }
+  #viz-container {
+    position: sticky;
+    width: 100%;
+  }
+  #viz-container svg{
+    width: 100%;
+  }
+  
+  #textboxes {
+    width: 12%;
+    height: 800px;
+    position: fixed;
+    right: 1%;
+  }
+  
+  .box{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding: 5px;
+    background-color: black;
+    width: 200px;
+    -webkit-animation-duration: 0.2s;
+  animation-duration: 0.2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  }
+
+  #dropbtn {
+    background-color: black;
+    text-align: center;
+    color:white;
+    padding: 0px;
+    font-size: 16px;
+    width:200px;
+    height:45px;
+    border: none;
+    cursor: pointer;
+    font-family: Barlow, "sans-serif", generic;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content h3 {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content h3:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: black;
+    color: white;
+}
+
+#wmdm:hover {
+    background-color:#f0efef;
+    color: black;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+}
+  
+#dm:hover {
+    background-color:#c2d4dd;
+    color: black;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+}
+
+#wfdf:hover {
+    background-color:#ddeedd;
+    color: black;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+}
+
+#df:hover {
+    background-color:  #b0aac0;
+    color: black;
+    cursor: pointer;
+    animation-name: expand;
+  -moz-animation-name: expand;
+}
+
+#dfm:hover {
+  background-color:  lightpink;
+  color: black;
+  cursor: pointer;
+  animation-name: expand;
+-moz-animation-name: expand;
+}
+
+#reset:hover {
+  background-color:lightgrey;
+  color:black;
+  cursor: pointer;
+  animation-name: expand;
+-moz-animation-name: expand;
+}
+
+#wmdm {
+  color:white;
+}
+
+#dm {
+  color:white;
+}
+
+#wfdf {
+  color:white;
+}
+
+#df {
+  color:white;
+}
+
+#dfm {
+  color:white;
+}
+
+#reset {
+  color:white;
+}
+
+#main {
+  color:white;
+}
+
+#main:hover {
+  background-color:black;
+  color: white;
+  cursor: pointer;
+  animation-name: expand;
+-moz-animation-name: expand;
+}
+
+#time {
+  color:white;
+}
+
+#time:hover {
+  background-color: lightyellow;
+  color: black;
+  cursor: pointer;
+  animation-name: expand;
+-moz-animation-name: expand;
+}
+
+@keyframes expand {
+	0% {
+		-webkit-transform: translateX(0);
+		-ms-transform:     translateX(0);
+		transform:         translateX(0)
+	}
+	100% {
+		-webkit-transform: translateX(-18px);
+		-ms-transform:     translateX(-18px);
+		transform:         translateX(-18px)
+	}
+}
+  

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>The Hollywood Diversity Report</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/d3-gridding@0.1"></script>
+
+  </head>
+  <body>
+    <!-- 1315/3018 movies from 2009-2013 -->
+
+    <div id="wrapper">
+        <div id="viz-container">
+
+        </div>
+        <div id="textboxes">
+            <div class="dropdown">
+                <button id="dropbtn" >Year</button>
+                <div class="dropdown-content">
+                    <h3 id="all">All Years</h3>
+                    <h3 id="2009">2009</h3>
+                    <h3 id="2010">2010</h3>
+                    <h3 id="2011">2011</h3>
+                    <h3 id="2012">2012</h3>
+                    <h3 id="2013">2013</h3>
+                </div>
+            </div>
+            <div class="box" id="wmdm">
+                <h3>Men</h3>
+            </div>
+            <div class="box" id="dm">
+                    <h3>Men of Color</h3>
+            </div>
+            <div class="box" id="wfdf">
+                    <h3>Women</h3>
+            </div>
+            <div class="box" id="df">
+                    <h3>Women of Color</h3>
+            </div>
+            <div class="box" id="dfm">
+                <h3>People of Color</h3>
+            </div>
+            <div class="box" id="reset">
+              <h3>Reset</h3>
+          </div>
+          <div class="box" id="time">
+            <h3>The Story</h3>
+          </div>
+          <div class="box" id="main">
+            <h3>About</h3>
+          </div>
+      </div>
+
+    <script type="module" src="script.js"></script>
+  </body>
+</html>

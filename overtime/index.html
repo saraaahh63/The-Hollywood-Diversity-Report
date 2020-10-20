@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>The Hollywood Diversity Report</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="p5/p5.js"></script>
+    <script src="p5/p5.dom.min.js"></script>
+    <script src="p5/p5.sound.min.js"></script>
+</head>
+
+<body>
+    <!-- 1315/3018 movies from 2009-2013 -->
+
+    <div id="wrapper">
+
+        <div id="sketchholder">
+
+        </div>
+
+        <div id="textboxes">
+            <div class="box" id="time">
+                <h3>Explore Data</h3>
+            </div>
+            <div class="box" id="high">
+                <h3>Highlights</h3>
+            </div>
+            <div class="box" id="main">
+                <h3>About</h3>
+            </div>
+            <div class="box" id="source">
+                <h3>Sources</h3>
+            </div>
+        </div>
+
+        <div id="p1">
+            <p>
+                The history of the film industry is a history of bias, which can be broken down into three general eras: Humiliation (1905-42) when grossly demeaning terms like “coon” and vile treatment were considered normal; protest (1942-49), when voices were raised in simple requests that demeaning stereotypes and racist images be removed from entertainment; and the struggle for equality (1949-present), when groups began confronting the absence of people of color and gender diveristy in key above- and below-the-line roles. For those who still don’t quite understand the fury behind the current demands for change, it should be noted that this third phase is now approaching its 73rd year.
+                <br>
+                <br> This dataset features every American film released during the years 2009 to 2013 and categorizes them according to the ethnicity and gender of the director. To put these years in context, let's take a look at the film landscape as a whole.
+            </p>
+        </div>
+            <div id="p2">
+                <p>
+                    <b>Dec. 31, 1915</b>
+                    <br> “Still Fighting ‘Birth’”
+                    <br> D.W. Griffith’s “The Birth of a Nation” was a money-making bonanza, but inspired protests in many cities. Variety reported on a hearing in Detroit over the “Barnett Ordinance,” which proposed a ban on movies and plays that were “immoral or race-prejudice.” At a public hearing, more than 100 theater owners weighed in, and “leading Negroes took a prominent part opposing the film.” The latter group was ignored and the ordinance was withdrawn.
+                    <br>
+                    <br>
+                    <b>June 17, 1942</b>
+                    <br> “Want Negroes Treated Normally in Films”
+                    <br> Walter White (above left, with Hattie McDaniel and Arthur Spingarn) of the NAACP scheduled a series of meetings with film studios seeking “an end to Hollywood’s traditional portrayal of Negroes as superstitiously fearful of spooks.” The organization ”hopes to persuade studios to represent Negroes according to their normal place in the world.”
+                    <br>
+                    <br>
+                    <b>April 10, 1962</b>
+                    <br> “Crasher, Pickets Enliven Acad Show”
+                    <br> The Oscar ceremonies at the Santa Monica Civic Auditorium were picketed by Hollywood Race Relations Group, led by Caleb Peterson. One protester carried a sign reading “All Negroes Want a Break.” The Santa Monica Police Dept. arrested 10 people for trespassing.
+                    <br>
+                    <br>
+                    <b>July 22, 1963</b>
+                    <br> “Demand Negro in Tech Crews”
+                    <br> “The foundation has been laid for what could be the turning point in the negro’s stepped-up campaign for greater opportunity in Hollywood.” NAACP and IATSE reps agreed on a request to Hollywood producers that “one Negro be added to each crew in the picture industry.” In a closed door meeting, attorney Thomas Neusom said, “All we want is for the existing employment to be spread out a little more. We would like to see some employment created where none exists now.” The movement began by targeting NBC series “Hazel.”
+                    <br>
+                    <br>
+                    <b>Dec. 17, 1971</b>
+                    <br> Justicia Intensifies Drive Against Film, TV on Grounds They Demean Chicanos
+                    <br> The organization Justicia protested the depiction of Mexicans in film and TV shows as lazy, sleazy, buffoons or banditos. The organization’s toppers, Ray Andrade and Paul Macias, said they’ve seen “this caricature of our people for 47 years and we’re sick and fed up.” It cited such recent films as “Hunting Party” and Woody Allen’s “Bananas” (left) as examples.
+                    <br>
+                    <br>
+                    <b>Oct. 27, 1976</b>
+                    <br> GSA Report Alleges Serious Underutilitization of Femmes, Minorities in Film Industry
+                    <br> General Services Administration alleges serious underutilization of minorities and women in the film industry. GSA is an independent agency of the U.S. government and Variety said the report is “in large part, a recitation of frustrations.” The report said “minorities are generally confined to laboring and service type jobs, while women are found primarily in clerical jobs.”
+                    <br>
+                    <br>
+                    <b>May 20, 1994</b>
+                    <br> Work Still Scarce for Most Women, Minority Helmers
+                    <br> The industry hadn’t progressed much since the days when Ida Lupino was the sole woman director. A study by the DGA shows women as 10% of the work force. This follows the first report, issued in 1991. “The goal of a level playing field for women and minorities was nowhere in sight from 1983 through 1991,” said Warren Adler, DGA western exec secretary and affirmative action officer. In 1993, 4% of all days worked by DGA members were handled by minorities.
+                    <br>
+                    <br>
+                    <b>March 22, 1996</b>
+                    <br> Jackson Making Waves; Leader Calls for Protest of Low Minority Hiring
+                    <br> In advance of the March 25 Oscarcast, the Rev. Jesse Jackson called for pickets across the country, “to protest the dearth of minorities in Hollywood as well as the failure of some movies and TV shows to reflect diversity.” The protest was spurred by the fact that only one Oscar nominee that year was black.
+                    <br>
+                    <br>
+                    <b>Jan. 15, 2015</b>
+                    <br> #OscarsSoWhite
+                    <br> In response to an all-white slate of acting nominees for the 2015 Academy Awards, activist April Reign started the #OscarsSoWhite movement via a viral tweet."#OscarsSoWhite refers to all marginalized communities and is not about quotas but about asking inclusive questions when staffing films—from the actors cast to the boom operators and craft-services teams hired."
+                    <br>
+                    <br>
+                </p>
+            </div>
+            <div id="p3">
+                <p>
+                    This brings us to present day. In 2018, diversity of American film directors reportedly hit a five year low according to a study conducted by the Directors Guild of America. The DGA said it examined an expanded data set for the 651 feature films that were released theatrically in the U.S. that year, including those that earned less than $250,000 at the box office. It noted that even though the data included hundreds of micro-budget projects with limited releases, only 9.7 percent of films were directed by minorities, down 46 percent since 2013.
+                    <br>
+                    <br> “It’s outrageous that we’re once again seeing such a lack of opportunity for women and people of color to direct feature films,” said DGA president Thomas Schlamme. “Our new study shows that discriminatory practices are still rampant across every corner of the feature film business. These numbers hit home how the chips are stacked against women and people of color.”
+                    <br>
+                    <br> According to these numbers, diversity behind the scenes is steadily decreasing. If in 2018, a year where so much of the industry was discussing representation, diversity was down 46%, what did the numbers look like five years prior in 2013?<br>
+                </p>
+            </div>
+                    <div id="highlights">
+                        <h1>Data Highlights</h1>
+                        <ul>
+                            <li>81% of films released between 2009-2013 were directed by caucasian men</li>
+                            <li>11% of films released between 2009-2013 were directed by men of color</li>
+                            <li>7% of films released between 2009-2013 were directed by caucasian women</li>
+                            <li>1% of films released between 2009-2013 were directed by women of color</li>
+                            <li>Only one women of color directed a film in 2011; Jennifer Yuh Nelson was the first women to solely direct a major animated feature</li>
+                            <li>Tyler Perry has directed 25 films over five years</li>
+                        </ul>
+                    </div>
+                    <div id="sources">
+                        <p>
+                            <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                            Sources
+                            <br>
+                            <br> Cooper, Samantha. “Diversity In Movie Directors Hit 5-Year Low in 2017.” ScreenRant, Screen Rant, 22 June 2018, <a href="https://screenrant.com/">https://screenrant.com/"</a>
+                            <br>
+                            <br> hollywood-directors-diversity-2017-gender-race/.Gaydos, Steven, et al. “A Telling Look Back at the Century-Old Quest for Diversity in Entertainment.” Variety, 23 Feb. 2016, <a href="https://variety.com/2016/film/news/diversity-history-movies-tv-1201712294/">https://variety.com/2016/film/news/diversity-history-movies-tv-1201712294/"</a>.<br><br>
+                        </p>
+                    </div>
+            </div>
+    <script type="text/javascript" src="script.js"></script>
+
+</body>
+
+</html>
