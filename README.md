@@ -19,7 +19,7 @@ The decision to limit the number of years within my dataset was mostly due to th
 
 To take a look at the pages I scraped, replace {} with the year you are interested in and follow this link "https://en.wikipedia.org/wiki/List_of_American_films_of_{ **YEAR**}"
 
-You can also find my python files at [scraping-stuff](https://github.com/saraaahh63/my-cdv-fall19/tree/master/my-work/scraping-stuff). Test.py and data1.json are my attempts at scraping past 2013.
+You can also find my python files at [scraping-stuff](https://github.com/saraaahh63/The-Hollywood-Diversity-Report/tree/main/scraping-stuff). Test.py and data1.json are my attempts at scraping past 2013.
 
 I thought 2013 was an appropriate place to end, because of a report I read published by the Directors Guild of America, where they stated that in 2018 diversity among directors hit a 5 year low and was down 46% from 2013. Based on that, 2013 is an interesting marker for the height of diversity in recent years.
 
