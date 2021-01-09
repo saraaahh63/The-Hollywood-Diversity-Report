@@ -13,7 +13,7 @@ I believe that film as a medium is one of the most immersive and transcendental 
 
 ## The Process
 
-My initial idea for this project was to look at diversity over a 10 year period from 2009 to 2019, and include gender, **specific** ethnicity and sexual orientation of each director. 
+My initial idea for this project was to look at diversity over a 10 year period from 2009 to 2019, and include gender identity, **specific** ethnicity and sexual orientation of each director. 
 
 The decision to limit the number of years within my dataset was mostly due to the scraping process and how difficult it became once the formating of the wikipedia pages I scraped changed. The pages for 2009-2013 were written in the exact same format, while 2014 and above had very different (and troublesome) formatting per page. 
 
@@ -23,7 +23,7 @@ You can also find my python files at [scraping-stuff](https://github.com/saraaah
 
 I thought 2013 was an appropriate place to end, because of a report I read published by the Directors Guild of America, where they stated that in 2018 diversity among directors hit a 5 year low and was down 46% from 2013. Based on that, 2013 is an interesting marker for the height of diversity in recent years.
 
-I did not end up including sexual orientation as a category, because it was very hard to verify. A lot of directors on this list are not very famous and information on their personal lives is largely unknown or undiscussed so my percentages would not have been accurate.
+I did not end up including sexual orientation as a category, because it was difficult to verify. A lot of directors on this list are not very famous and information on their personal lives is largely unknown or undiscussed.
 
 I also decided not to look at specific ethnic groups and instead group people together as men of color, women of color and people of color. I did not want this to be about specific groups, but about diversity in general.
 
@@ -31,12 +31,12 @@ In terms of interface, I had wanted to create a grid of movies and watch them di
 
 ## The Resulting Data
 
-The resulting data was honestly quite shocking. I expected low diversity percentages, but not as low as what it turned out to be. 
+The resulting data was quite shocking. I expected low diversity percentages, but not as low as what it turned out to be. 
 
 Over 2009-2013:
-- 81% of films were directed by caucasian men.
+- 81% of films were directed by white men.
 - 11% of films were directed by men of color.
-- 7% of films were directed by caucasian women.
+- 7% of films were directed by white women.
 - 1% of films were directed by women of color.
 
 ![alt test](images/1.png)
@@ -45,9 +45,9 @@ Over 2009-2013:
 
 ## Final Thoughts and Future Progress
 
-I am very glad I chose to go with this topic, it is something that I care about a lot and I am glad to know the actual numbers, but I do wish I was able to scrape 2014 to 2019. I think that I might continue to work on this and expand my dataset.
+I am very glad I chose to explore this topic. It is something that I care about a lot and I am glad to know the actual numbers, but I do wish I was able to scrape 2014 to 2019. I think that I might continue to work on this and expand my dataset.
 
-I think if I could find accurate data or reach out to each person individually, I would like to include LGBTQ+ identifying as a catgegory and trace diversity in that sense as well.
+If I could find accurate data or reach out to each person individually, I would like to include LGBTQ+ identifying as a catgegory and trace diversity in that sense as well.
 
 ## Reference Material
 - [DGA Report](https://www.dga.org/The-Guild/Diversity/Industry-Reports.aspx)
